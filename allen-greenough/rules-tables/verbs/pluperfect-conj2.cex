@@ -1,0 +1,14 @@
+RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
+lverbinfl.are_plupftind1#conj2#ueram#1st#sg#plupft#indic#act
+lverbinfl.are_plupftind2#conj2#ueras#2nd#sg#plupft#indic#act
+lverbinfl.are_plupftind3#conj2#uerat#3rd#sg#plupft#indic#act
+lverbinfl.are_plupftind4#conj2#ueramus#1st#pl#plupft#indic#act
+lverbinfl.are_plupftind5#conj2#ueratis#2nd#pl#plupft#indic#act
+lverbinfl.are_plupftind6#conj2#uerant#3rd#pl#plupft#indic#act
+
+lverbinfl.are_plupftind7#conj2#uissem#1st#sg#plupft#subj#act
+lverbinfl.are_plupftind8#conj2#uisses#2nd#sg#plupft#subj#act
+lverbinfl.are_plupftind9#conj2#uisset#3rd#sg#plupft#subj#act
+lverbinfl.are_plupftind10#conj2#uissemus#1st#pl#plupft#subj#act
+lverbinfl.are_plupftind11#conj2#uissetis#2nd#pl#plupft#subj#act
+lverbinfl.are_plupftind12#conj2#uissent#3rd#pl#plupft#subj#act
