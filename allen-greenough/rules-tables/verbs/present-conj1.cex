@@ -8,6 +8,7 @@ lverbinfl.are_presind6#conj1#ant#3rd#pl#pres#indic#act
 
 lverbinfl.are_presind7#conj1#or#1st#sg#pres#indic#pass
 lverbinfl.are_presind8#conj1#aris#2nd#sg#pres#indic#pass
+lverbinfl.are_presind8b#conj1#are#2nd#sg#pres#indic#pass
 lverbinfl.are_presind9#conj1#atur#3rd#sg#pres#indic#pass
 lverbinfl.are_presind10#conj1#amur#1st#pl#pres#indic#pass
 lverbinfl.are_presind11#conj1#amini#2nd#pl#pres#indic#pass
@@ -24,6 +25,7 @@ lverbinfl.are_presind17#conj1#ent#3rd#pl#pres#subj#act
 
 lverbinfl.are_presind19#conj1#er#1st#sg#pres#subj#pass
 lverbinfl.are_presind19#conj1#eris#2nd#sg#pres#subj#pass
+lverbinfl.are_presind19b#conj1#ere#2nd#sg#pres#subj#pass
 lverbinfl.are_presind20#conj1#etur#3rd#sg#pres#subj#pass
 lverbinfl.are_presind21#conj1#emur#1st#pl#pres#subj#pass
 lverbinfl.are_presind22#conj1#emini#2nd#pl#pres#subj#pass
