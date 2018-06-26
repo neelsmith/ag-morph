@@ -1,0 +1,14 @@
+RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
+lverbinfl.ere3_plupftind1#pftact#eram#1st#sg#plupft#indic#act
+lverbinfl.ere3_plupftind2#pftact#eras#2nd#sg#plupft#indic#act
+lverbinfl.ere3_plupftind3#pftact#erat#3rd#sg#plupft#indic#act
+lverbinfl.ere3_plupftind4#pftact#eramus#1st#pl#plupft#indic#act
+lverbinfl.ere3_plupftind5#pftact#eratis#2nd#pl#plupft#indic#act
+lverbinfl.ere3_plupftind6#pftact#erant#3rd#pl#plupft#indic#act
+
+lverbinfl.ere3_plupftind7#pftact#issem#1st#sg#plupft#subj#act
+lverbinfl.ere3_plupftind8#pftact#isses#2nd#sg#plupft#subj#act
+lverbinfl.ere3_plupftind9#pftact#isset#3rd#sg#plupft#subj#act
+lverbinfl.ere3_plupftind10#pftact#issemus#1st#pl#plupft#subj#act
+lverbinfl.ere3_plupftind11#pftact#issetis#2nd#pl#plupft#subj#act
+lverbinfl.ere3_plupftind12#pftact#issent#3rd#pl#plupft#subj#act
