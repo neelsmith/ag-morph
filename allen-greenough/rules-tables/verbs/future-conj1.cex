@@ -13,3 +13,11 @@ lverbinfl.are_fut9#conj1#abitur#3rd#sg#fut#indic#pass
 lverbinfl.are_fut10#conj1#abimur#1st#pl#fut#indic#pass
 lverbinfl.are_fut11#conj1#abimini#2nd#pl#fut#indic#pass
 lverbinfl.are_fut12#conj1#abuntur#3rd#pl#fut#indic#pass
+
+lverbinfl.are_fut13#conj1#ato#2nd#sg#fut#imptv#act
+lverbinfl.are_fut14#conj1#ato#3rd#sg#fut#imptv#act
+lverbinfl.are_fut15#conj1#atote#2nd#pl#fut#imptv#act
+lverbinfl.are_fut16#conj1#anto#3rd#pl#fut#imptv#act
+lverbinfl.are_fut17#conj1#ator#2nd#sg#fut#imptv#pass
+lverbinfl.are_fut18#conj1#ator#3rd#sg#fut#imptv#pass
+lverbinfl.are_fut19#conj1#antor#3rd#pl#fut#imptv#pass

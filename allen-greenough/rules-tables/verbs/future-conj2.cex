@@ -13,3 +13,11 @@ lverbinfl.ere_fut9#conj2#ebitur#3rd#sg#fut#indic#pass
 lverbinfl.ere_fut10#conj2#ebimur#1st#pl#fut#indic#pass
 lverbinfl.ere_fut11#conj2#ebimini#2nd#pl#fut#indic#pass
 lverbinfl.ere_fut12#conj2#ebuntur#3rd#pl#fut#indic#pass
+
+lverbinfl.ere_fut13#conj2#eto#2nd#sg#fut#imptv#act
+lverbinfl.ere_fut14#conj2#eto#3rd#sg#fut#imptv#act
+lverbinfl.ere_fut15#conj2#etote#2nd#pl#fut#imptv#act
+lverbinfl.ere_fut16#conj2#ento#3rd#pl#fut#imptv#act
+lverbinfl.ere_fut17#conj2#etor#2nd#sg#fut#imptv#pass
+lverbinfl.ere_fut18#conj2#etor#3rd#sg#fut#imptv#pass
+lverbinfl.ere_fut19#conj2#entor#3rd#pl#fut#imptv#pass
