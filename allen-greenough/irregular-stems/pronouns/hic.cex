@@ -1,36 +1,36 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
 ag.irregpron1#lexent.n20640#hic#masc#nom#sg
-ag.agirregpron2#lexent.n20640#huius#masc#gen#sg
-ag.agirregpron3#lexent.n20640#huic#masc#dat#sg
-ag.agirregpron4#lexent.n20640#hunc#masc#acc#sg
-ag.agirregpron5#lexent.n20640#hoc#masc#abl#sg
+ag.irregpron2#lexent.n20640#huius#masc#gen#sg
+ag.irregpron3#lexent.n20640#huic#masc#dat#sg
+ag.irregpron4#lexent.n20640#hunc#masc#acc#sg
+ag.irregpron5#lexent.n20640#hoc#masc#abl#sg
 
-ag.agirregpron6#lexent.n20640#hi#masc#nom#pl
-ag.agirregpron7#lexent.n20640#horumius#masc#gen#pl
-ag.agirregpron8#lexent.n20640#his#masc#dat#pl
-ag.agirregpron9#lexent.n20640#hos#masc#acc#pl
-ag.agirregpron10#lexent.n20640#his#masc#abl#pl
+ag.irregpron6#lexent.n20640#hi#masc#nom#pl
+ag.irregpron7#lexent.n20640#horumius#masc#gen#pl
+ag.irregpron8#lexent.n20640#his#masc#dat#pl
+ag.irregpron9#lexent.n20640#hos#masc#acc#pl
+ag.irregpron10#lexent.n20640#his#masc#abl#pl
 
-ag.agirregpron11#lexent.n20640#haec#fem#nom#sg
-ag.agirregpron12#lexent.n20640#huius#fem#gen#sg
-ag.agirregpron13#lexent.n20640#huic#fem#dat#sg
-ag.agirregpron14#lexent.n20640#hanc#fem#acc#sg
-ag.agirregpron15#lexent.n20640#hac#fem#abl#sg
+ag.irregpron11#lexent.n20640#haec#fem#nom#sg
+ag.irregpron12#lexent.n20640#huius#fem#gen#sg
+ag.irregpron13#lexent.n20640#huic#fem#dat#sg
+ag.irregpron14#lexent.n20640#hanc#fem#acc#sg
+ag.irregpron15#lexent.n20640#hac#fem#abl#sg
 
-ag.agirregpron16#lexent.n20640#hae#fem#nom#pl
-ag.agirregpron17#lexent.n20640#harum#fem#gen#pl
-ag.agirregpron18#lexent.n20640#his#fem#dat#pl
-ag.agirregpron19#lexent.n20640#has#fem#acc#pl
-ag.agirregpron20#lexent.n20640#his#fem#abl#pl
+ag.irregpron16#lexent.n20640#hae#fem#nom#pl
+ag.irregpron17#lexent.n20640#harum#fem#gen#pl
+ag.irregpron18#lexent.n20640#his#fem#dat#pl
+ag.irregpron19#lexent.n20640#has#fem#acc#pl
+ag.irregpron20#lexent.n20640#his#fem#abl#pl
 
-ag.agirregpron21#lexent.n20640#hoc#neut#nom#sg
-ag.agirregpron22#lexent.n20640#huius#neut#gen#sg
-ag.agirregpron23#lexent.n20640#huic#neut#dat#sg
-ag.agirregpron24#lexent.n20640#hoc#neut#acc#sg
-ag.agirregpron25#lexent.n20640#hoc#neut#abl#sg
+ag.irregpron21#lexent.n20640#hoc#neut#nom#sg
+ag.irregpron22#lexent.n20640#huius#neut#gen#sg
+ag.irregpron23#lexent.n20640#huic#neut#dat#sg
+ag.irregpron24#lexent.n20640#hoc#neut#acc#sg
+ag.irregpron25#lexent.n20640#hoc#neut#abl#sg
 
-ag.agirregpron26#lexent.n20640#haec#neut#nom#pl
-ag.agirregpron27#lexent.n20640#horumius#neut#gen#pl
-ag.agirregpron28#lexent.n20640#his#neut#dat#pl
-ag.agirregpron29#lexent.n20640#haec#neut#acc#pl
-ag.agirregpron30#lexent.n20640#his#neut#abl#pl
+ag.irregpron26#lexent.n20640#haec#neut#nom#pl
+ag.irregpron27#lexent.n20640#horumius#neut#gen#pl
+ag.irregpron28#lexent.n20640#his#neut#dat#pl
+ag.irregpron29#lexent.n20640#haec#neut#acc#pl
+ag.irregpron30#lexent.n20640#his#neut#abl#pl
