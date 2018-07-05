@@ -3,7 +3,7 @@ StemUrn#LexicalEntity#Stem#Gender#InflClass
 ag.n1#lexent.n44491#stell#fem#a_ae
 ag.n2#lexent.n13573#de#masc#us_i
 ag.n3#lexent.n5147#bell#neut#us_i
-ag.n4#lexent.n1321#aequ#neut#us_oris
+ag.n4#lexent.n1321#aequ#neut#or_oris
 ag.n5#lexent.n12076#custo#masc#s_dis
 ag.n6#lexent.n43952#serv#masc#us_i
 ag.n7#lexent.n39429#puer#masc#0_i
@@ -23,3 +23,18 @@ ag.n20#lexent.n21403#ign#masc#is_is
 ag.n21#lexent.n21627#imb#masc#is_is
 ag.n22#lexent.n35497#pers#masc#es_ae
 ag.n23#lexent.n9254#comet#masc#es_ae
+ag.n24#lexent.n1234#aene#masc#as_ae
+ag.n25#lexent.n13847#di#fem#es_ei
+ag.n26#lexent.n18127#fid#fem#es_ei
+ag.n27#lexent.n29035#mil#masc#es_itis
+ag.n28#lexent.n34096#pat#masc#er_ris
+ag.n29#lexent.n19477#gen#neut#us_eris
+ag.n30#lexent.n11268#corp#neut#us_oris
+ag.n31#lexent.n40352#rad#fem#ix_icis
+ag.n32#lexent.n15002#du#masc#x_cis
+ag.n33#lexent.n10676#consul#masc#0_is
+ag.n34#lexent.n26265#le#masc#o_onis
+ag.n35#lexent.n36785#poe#neut#ma_matis
+ag.n36#lexent.n2618#animal#neut#0_is
+ag.n37#lexent.n6167#calcar#neut#0_is
+ag.n38#lexent.n31309#no#fem#x_ctis
