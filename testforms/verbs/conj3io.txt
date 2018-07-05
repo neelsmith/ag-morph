@@ -103,3 +103,6 @@ ceperit
 ceperimus
 ceperitis
 ceperint
+capere
+capi
+cepisse
