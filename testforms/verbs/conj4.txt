@@ -103,3 +103,6 @@ audiverit
 audiverimus
 audiveritis
 audiverint
+audire
+audiri
+audivisse
