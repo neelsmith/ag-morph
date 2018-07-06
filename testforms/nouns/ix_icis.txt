@@ -6,3 +6,5 @@ radice
 radices
 radicum
 radicibus
+radices
+radicibus

@@ -1,7 +1,10 @@
 nomen
 nominis
 nomini
+nomen
 nomine
 nomina
 nominum
+nominibus
+nomina
 nominibus

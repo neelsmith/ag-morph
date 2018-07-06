@@ -6,3 +6,5 @@ rege
 reges
 regum
 regibus
+reges
+regibus

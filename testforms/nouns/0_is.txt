@@ -6,3 +6,5 @@ consule
 consules
 consulum
 consulibus
+consules
+consulibus

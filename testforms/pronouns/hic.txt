@@ -4,6 +4,9 @@ hoc
 huius
 huius
 huius
+huic
+huic
+huic
 hunc
 hanc
 hoc

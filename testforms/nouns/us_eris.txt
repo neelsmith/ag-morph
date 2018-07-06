@@ -1,7 +1,10 @@
 genus
 generis
 generi
+genus
 genere
 genera
 generum
+generibus
+genera
 generibus

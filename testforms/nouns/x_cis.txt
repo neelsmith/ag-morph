@@ -6,3 +6,5 @@ duce
 duces
 ducum
 ducibus
+duces
+ducibus

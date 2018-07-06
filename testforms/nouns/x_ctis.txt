@@ -6,3 +6,5 @@ nocte
 noctes
 noctium
 noctibus
+noctes
+noctibus

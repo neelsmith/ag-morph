@@ -6,3 +6,5 @@ patre
 patres
 patrum
 patribus
+patres
+patribus
