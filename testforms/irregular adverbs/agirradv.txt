@@ -144,7 +144,6 @@ nedum
 neque
 nec
 quidem
-modo
 verum
 sed
 etiam
