@@ -14,7 +14,7 @@ lverbinfl.are_ptcpl45#conj1#atis#masc#abl#pl#pft#pass
 lverbinfl.are_ptcpl46#conj1#ati#masc#voc#pl#pft#pass
 
 lverbinfl.are_ptcpl47#conj1#ata#fem#nom#sg#pft#pass
-lverbinfl.are_ptcp48#conj1#atae#fem#gen#sg#pft#pass
+lverbinfl.are_ptcpl48#conj1#atae#fem#gen#sg#pft#pass
 lverbinfl.are_ptcpl49#conj1#atae#fem#dat#sg#pft#pass
 lverbinfl.are_ptcpl50#conj1#atam#fem#acc#sg#pft#pass
 lverbinfl.are_ptcpl51#conj1#ata#fem#abl#sg#pft#pass
@@ -56,7 +56,7 @@ lverbinfl.are_ptcpl81#c1pres#atis#masc#abl#pl#pft#pass
 lverbinfl.are_ptcpl82#c1pres#ati#masc#voc#pl#pft#pass
 
 lverbinfl.are_ptcpl83#c1pres#ata#fem#nom#sg#pft#pass
-lverbinfl.are_ptcp84#c1pres#atae#fem#gen#sg#pft#pass
+lverbinfl.are_ptcpl84#c1pres#atae#fem#gen#sg#pft#pass
 lverbinfl.are_ptcpl85#c1pres#atae#fem#dat#sg#pft#pass
 lverbinfl.are_ptcpl86#c1pres#atam#fem#acc#sg#pft#pass
 lverbinfl.are_ptcpl87#c1pres#ata#fem#abl#sg#pft#pass

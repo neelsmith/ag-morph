@@ -14,7 +14,7 @@ lverbinfl.pft_ptcpl45#pftpass#is#masc#abl#pl#pft#pass
 lverbinfl.pft_ptcpl46#pftpass#i#masc#voc#pl#pft#pass
 
 lverbinfl.pft_ptcpl47#pftpass#a#fem#nom#sg#pft#pass
-lverbinfl.pft_ptcp48#pftpass#ae#fem#gen#sg#pft#pass
+lverbinfl.pft_ptcpl48#pftpass#ae#fem#gen#sg#pft#pass
 lverbinfl.pft_ptcpl49#pftpass#ae#fem#dat#sg#pft#pass
 lverbinfl.pft_ptcpl50#pftpass#am#fem#acc#sg#pft#pass
 lverbinfl.pft_ptcpl51#pftpass#a#fem#abl#sg#pft#pass
@@ -28,7 +28,7 @@ lverbinfl.pft_ptcpl57#pftpass#is#fem#abl#pl#pft#pass
 lverbinfl.pft_ptcpl58#pftpass#ae#fem#voc#pl#pft#pass
 
 lverbinfl.pft_ptcpl59#pftpass#um#neut#nom#sg#pft#pass
-lverbinfl.pft_ptcp60#pftpass#i#neut#gen#sg#pft#pass
+lverbinfl.pft_ptcpl60#pftpass#i#neut#gen#sg#pft#pass
 lverbinfl.pft_ptcpl61#pftpass#o#neutc#dat#sg#pft#pass
 lverbinfl.pft_ptcpl62#pftpass#um#neutc#acc#sg#pft#pass
 lverbinfl.pft_ptcpl63#pftpass#o#neut#abl#sg#pft#pass
