@@ -24,7 +24,7 @@ ag.n21#lexent.n21627#imb#masc#is_is
 ag.n22#lexent.n35497#pers#masc#es_ae
 ag.n23#lexent.n9254#comet#masc#es_ae
 ag.n24#lexent.n1234#aene#masc#as_ae
-ag.n25#lexent.n13847#di#fem#es_ei
+ag.n25#lexent.n13847#di#masc#es_ei
 ag.n26#lexent.n18127#fid#fem#es_ei
 ag.n27#lexent.n29035#mil#masc#es_itis
 ag.n28#lexent.n34096#pat#masc#er_ris
@@ -38,3 +38,7 @@ ag.n35#lexent.n36785#poe#neut#ma_matis
 ag.n36#lexent.n2618#animal#neut#0_is
 ag.n37#lexent.n6167#calcar#neut#0_is
 ag.n38#lexent.n31309#no#fem#x_ctis
+ag.n39#lexent.n27977#man#fem#us_us
+ag.n40#lexent.n25611#lac#masc#us_us
+ag.n41#lexent.n19471#gen#neut#us_us
+ag.n42#lexent.n14720#dom#fem#us_us
