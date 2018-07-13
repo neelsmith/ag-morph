@@ -1,7 +1,9 @@
 servus
+servos
 servi
 servo
 servum
+servom
 servo
 serve
 servi
