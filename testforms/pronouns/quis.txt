@@ -1,6 +1,6 @@
-qui
-quae
-quod
+quis
+quis
+quid
 cuius
 cuius
 cuius
@@ -8,10 +8,10 @@ cui
 cui
 cui
 quem
-quam
-quod
+quem
+quid
 quo
-qua
+quo
 quo
 qui
 quae
