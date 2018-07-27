@@ -90,3 +90,6 @@ levissimorum
 levissimis
 levissima
 levissimis
+leviter
+levius
+levissime
