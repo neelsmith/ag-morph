@@ -7,3 +7,4 @@ lampades
 lampadum
 lampadibus
 lampadas
+lampadibus
