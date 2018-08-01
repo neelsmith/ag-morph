@@ -11,5 +11,8 @@ resolvers += Resolver.bintrayRepo("neelsmith", "maven")
 
 libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.0.1" % "test",
-  "edu.holycross.shot" %% "tabulae" % "0.0.1"
+
+  "edu.holycross.shot" %% "tabulae" % "1.0.0",
+  "com.github.pathikrit" %% "better-files" % "3.5.0"
+
 )
