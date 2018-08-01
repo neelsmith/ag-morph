@@ -1,4 +1,5 @@
 import scala.io.Source
+import java.io.PrintWriter
 
 val f = "allen-greenough/stems-tables/nouns/nouns.cex"
 
@@ -19,15 +20,25 @@ case class NounRow(columns: Vector[String]) {
   }
 
   def markdown : String = {
-    "| " + stemClass + " | " + description + " | " + stem + " | "
-  }
-}
+    "| `" + stemClass + "` | " + description + " | *" + stem + "*- | "
+  }}
 
 def str(columns: Vector[String]) : String = {
   columns(4) + ":  " + columns(5) + ".  Example:  `" + columns(2) + "`."
 }
 
-val docs = for (ln <- lines) yield {
-  val cols = ln.split("#").toVector
-  NounRow(cols)
+def docs = {
+  val nounRows = for (ln <- lines) yield {
+    val cols = ln.split("#").toVector
+    NounRow(cols)
+  }
+  nounRows.filterNot(_.lexEnt == "LexicalEntity")
 }
+
+def writeTable(f: String) = {
+  val hdr = "| Stem class | Description | Example |\n| :------------- | :------------- | :------------- |\n"
+  new PrintWriter(f){write(hdr + docs.sortBy(_.description).map(_.markdown).mkString("\n")); close;}
+}
+
+println("\n\nWrite a markdown table documenting noun stem classes:")
+println("\n\twriteTable(FILENAME)")
