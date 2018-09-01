@@ -10,6 +10,14 @@ The directory `allen-greenough` contains tabular data in the directory structure
 
 The directory `testforms` contains word lists that can be used to test the parser built from the data in `allen-greenough`.
 
+## Compiling a parser
+
+The `scripts` directory contains a Scala script that will compile a parser from this data set.
+
+1.  Start an sbt console:     `sbt console`
+2.  Load the script:  `:load scripts/compile.sc`
+3.  Use the `compile()` function to compile `parsers/latin.a`
+
 ## Status
 
 Initial work in progress: no published releases yet.
