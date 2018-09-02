@@ -3,7 +3,9 @@ import java.io.PrintWriter
 
 val f = "allen-greenough/stems-tables/nouns/nouns.cex"
 
-val lines = Source.fromFile(f).getLines.toVector
+def lines: Vector[String] = {
+  Source.fromFile(f).getLines.toVector.filter(_.nonEmpty)
+}
 
 case class NounRow(columns: Vector[String]) {
   //StemUrn#LexicalEntity#Stem#Gender#InflClass#Notes
@@ -35,10 +37,10 @@ def docs = {
   nounRows.filterNot(_.lexEnt == "LexicalEntity")
 }
 
-def writeTable(f: String) = {
+def writeNounTable(f: String = "noun-stem-classes.md") = {
   val hdr = "| Stem class | Description | Example |\n| :------------- | :------------- | :------------- |\n"
   new PrintWriter(f){write(hdr + docs.sortBy(_.description).map(_.markdown).mkString("\n")); close;}
 }
 
 println("\n\nWrite a markdown table documenting noun stem classes:")
-println("\n\twriteTable(FILENAME)")
+println("\n\twriteNounTable(FILENAME)")

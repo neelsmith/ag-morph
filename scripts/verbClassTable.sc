@@ -28,17 +28,17 @@ def str(columns: Vector[String]) : String = {
 }
 
 def docs = {
-  val nounRows = for (ln <- lines) yield {
+  val verbRows = for (ln <- lines) yield {  
     val cols = ln.split("#").toVector
     VerbRow(cols)
   }
-  nounRows.filterNot(_.lexEnt == "LexicalEntity")
+  verbRows.filterNot(_.lexEnt == "LexicalEntity")
 }
 
-def writeTable(f: String) = {
+def writeVerbTable(f: String =  "verb-stem-classes.md") = {
   val hdr = "| Stem class | Description | Example |\n| :------------- | :------------- | :------------- |\n"
   new PrintWriter(f){write(hdr + docs.sortBy(_.description).map(_.markdown).mkString("\n")); close;}
 }
 
 println("\n\nWrite a markdown table documenting verb stem classes:")
-println("\n\twriteTable(FILENAME)")
+println("\n\twriteVerbTable(FILENAME)")
