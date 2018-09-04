@@ -7,4 +7,3 @@ heroes
 heroum
 heroibus
 heroas
-heroibus
