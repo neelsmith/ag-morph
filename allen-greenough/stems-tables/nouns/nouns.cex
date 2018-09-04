@@ -26,7 +26,7 @@ ag.n5#lexent.n12076#custo#masc#s_dis#3rd declension mute stem
 ag.n32#lexent.n15002#du#masc#x_cis#3rd declension mute stem
 ag.n16#lexent.n41625#re#masc#x_gis#3rd declension mute stem
 ag.n58#lexent.n11124#cor#neut#0_dis#3rd declension mute stem
-ag.n45#lexent.n6724#caput#neut#0_is#3rd declension mute stem
+ag.n45#lexent.n6724#cap#neut#ut_itis#3rd declension mute stem
 ag.n35#lexent.n36785#poema#neut#0_tis#3rd declension mute stem, Greek
 ag.n33#lexent.n10676#consul#masc#0_is#3rd declension liquid stem
 ag.n34#lexent.n26265#le#masc#o_onis#3rd declension liquid stem
@@ -46,7 +46,7 @@ ag.n37#lexent.n6167#calcar#neut#i_0_is#3rd declension i-stem
 ag.n44#lexent.n31321#nub#fem#i_es_is#3rd declension, mixed i-stem
 ag.n48#lexent.n49895#urb#fem#i_s_is#3rd declension i-stem, mixed i-stem
 ag.n38#lexent.n31309#no#fem#x_ctis#3rd declension i-stem, mixed i-stem
-ag.n47#lexent.n8598#clien#masc#s_tis#3rd declension i-stem, mixed i-stem
+ag.n47#lexent.n8598#clien#masc#i_s_tis#3rd declension i-stem, mixed i-stem
 ag.n46#lexent.n1406#ae#fem#tas_tatis#3rd declension i-stem, mixed i-stem
 ag.n39#lexent.n27977#man#fem#us_us#4th declension
 ag.n40#lexent.n25611#lac#masc#us_us#4th declension
@@ -55,3 +55,4 @@ ag.n15#lexent.n41293#r#fem#es_ei#5th declension
 ag.n26#lexent.n18127#fid#fem#es_ei#5th declension
 ag.n25#lexent.n13847#di#masc#es_ei#5th declension
 ag.n61#lexent.n14720#dom#fem#us_us#4th declension (but has additional irregular forms)
+ag.n62#lexent.n13573#de#masc#us_i#2nd declension (but has additional irregular forms)
