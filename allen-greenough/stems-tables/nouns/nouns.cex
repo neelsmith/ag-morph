@@ -1,54 +1,57 @@
-StemUrn#LexicalEntity#Stem#Gender#InflClass
-
-ag.n1#lexent.n44491#stell#fem#a_ae
-ag.n2#lexent.n13573#de#masc#us_i
-ag.n3#lexent.n5147#bell#neut#us_i
-ag.n4#lexent.n1321#aequ#neut#or_oris
-ag.n5#lexent.n12076#custo#masc#s_dis
-ag.n6#lexent.n43952#serv#masc#us_i
-ag.n7#lexent.n39429#puer#masc#0_i
-ag.n8#lexent.n1534#ag#masc#er_ri
-ag.n9#lexent.n51034#vir#masc#0_i
-ag.n10#lexent.n38341#princ#masc#eps_ipis
-ag.n11#lexent.n16011#epitom#fem#e_es
-ag.n12#lexent.n30316#myth#masc#os_i
-ag.n13#lexent.n12957#del#fem#os_i
-ag.n14#lexent.n21458#ili#neut#os_i
-ag.n15#lexent.n41293#r#fem#es_ei
-ag.n16#lexent.n41625#re#masc#x_gis
-ag.n17#lexent.n31131#nom#neut#en_inis
-ag.n18#lexent.n49506#turr#masc#is_is
-ag.n19#lexent.n44502#sit#fem#is_is
-ag.n20#lexent.n21403#ign#masc#is_is
-ag.n21#lexent.n21627#imb#masc#is_is
-ag.n22#lexent.n35497#pers#masc#es_ae
-ag.n23#lexent.n9254#comet#masc#es_ae
-ag.n24#lexent.n1234#aene#masc#as_ae
-ag.n25#lexent.n13847#di#masc#es_ei
-ag.n26#lexent.n18127#fid#fem#es_ei
-ag.n27#lexent.n29035#mil#masc#es_itis
-ag.n28#lexent.n34096#pat#masc#er_ris
-ag.n29#lexent.n19477#gen#neut#us_eris
-ag.n30#lexent.n11268#corp#neut#us_oris
-ag.n31#lexent.n40352#rad#fem#ix_icis
-ag.n32#lexent.n15002#du#masc#x_cis
-ag.n33#lexent.n10676#consul#masc#0_is
-ag.n34#lexent.n26265#le#masc#o_onis
-ag.n35#lexent.n36785#poe#neut#ma_matis
-ag.n36#lexent.n2618#animal#neut#0_is
-ag.n37#lexent.n6167#calcar#neut#0_is
-ag.n38#lexent.n31309#no#fem#x_ctis
-ag.n39#lexent.n27977#man#fem#us_us
-ag.n40#lexent.n25611#lac#masc#us_us
-ag.n41#lexent.n19471#gen#neut#us_us
-ag.n42#lexent.n14720#dom#fem#us_us
-ag.n43#lexent.n43309#sedil#neut#e_is
-ag.n44#lexent.n31321#nub#fem#es_is
-ag.n45#lexent.n6724#cap#neut#ut_itis
-ag.n46#lexent.n1406#ae#fem#tas_tatis
-ag.n47#lexent.n8598#clien#masc#s_tis
-ag.n48#lexent.n49895#urb#fem#s_is
-ag.n49#lexent.n51069#virg#fem#o_inis
-ag.n50#lexent.n49506#turr#fem#is_is
-ag.n51#lexent.n44502#sit#fem#is_is
-ag.n52#lexent.n21403#ign#masc#is_is
+StemUrn#LexicalEntity#Stem#Gender#InflClass#Notes
+ag.n1#lexent.n44491#stell#fem#a_ae#1st declension
+ag.n53#lexent.n15418#electr#fem#a_ae_gk#1st declension, Greek feminine declension
+ag.n11#lexent.n16011#epitom#fem#e_es#1st declension, Greek feminine declension
+ag.n59#lexent.n30110#music#fem#e_es#1st declension, Greek feminine declension
+ag.n54#lexent.n2527#andromach#fem#e_es#1st declension, Greek feminine declension
+ag.n24#lexent.n1234#aene#masc#as_ae#1st declension, Greek masculine name
+ag.n22#lexent.n35497#pers#masc#es_ae#1st declension, Greek masculine name
+ag.n60#lexent.n2483#anchis#masc#es_ae#1st declension, Greek masculine name
+ag.n57#lexent.n1232#aenead#masc#es_ae#1st declension, Greek masculine name
+ag.n23#lexent.n9254#comet#masc#es_ae#1st declension, Greek masculine declension
+ag.n6#lexent.n43952#serv#masc#us_i#2nd declension masculine
+ag.n3#lexent.n5147#bell#neut#us_i#2nd declension neuter
+ag.n61#lexent.n36981#pompei#neut#us_0#2nd declension neuter, stem ending in i-
+ag.n7#lexent.n39429#puer#masc#0_i#2nd declension masculine
+ag.n8#lexent.n1534#ag#masc#er_ri#2nd declension masculine
+ag.n9#lexent.n51034#vir#masc#0_i#2nd declension masculine
+ag.n12#lexent.n30316#myth#masc#os_i#2nd declension, Greek
+ag.n61#lexent.n4261#ath#masc#os_i#2nd declension, Greek
+ag.n13#lexent.n12957#del#fem#os_i#2nd declension, Greek
+ag.n14#lexent.n21458#ili#neut#os_i#2nd declension, Greek
+ag.n10#lexent.n38341#princ#masc#eps_ipis#3rd declension mute stem
+ag.n31#lexent.n40352#rad#fem#ix_icis#3rd declension mute stem
+ag.n27#lexent.n29035#mil#masc#es_itis#3rd declension mute stem
+ag.n5#lexent.n12076#custo#masc#s_dis#3rd declension mute stem
+ag.n32#lexent.n15002#du#masc#x_cis#3rd declension mute stem
+ag.n16#lexent.n41625#re#masc#x_gis#3rd declension mute stem
+ag.n58#lexent.n11124#cor#neut#0_dis#3rd declension mute stem
+ag.n45#lexent.n6724#caput#neut#0_is#3rd declension mute stem
+ag.n35#lexent.n36785#poema#neut#0_tis#3rd declension mute stem, Greek
+ag.n33#lexent.n10676#consul#masc#0_is#3rd declension liquid stem
+ag.n34#lexent.n26265#le#masc#o_onis#3rd declension liquid stem
+ag.n49#lexent.n51069#virg#fem#o_inis#3rd declension liquid stem
+ag.n28#lexent.n34096#pat#masc#er_ris#3rd declension liquid stem
+ag.n17#lexent.n31131#nom#neut#en_inis#3rd declension liquid stem
+ag.n29#lexent.n19477#gen#neut#us_eris#3rd declension liquid stem
+ag.n30#lexent.n11268#corp#neut#us_oris#3rd declension liquid stem
+ag.n4#lexent.n1321#aequor#neut#0_is#3rd declension liquid stem
+ag.n18#lexent.n49506#turr#masc#i_is_is#3rd declension i-stem
+ag.n19#lexent.n44502#sit#fem#i_is_is#3rd declension i-stem
+ag.n20#lexent.n21403#ign#masc#i_is_is#3rd declension i-stem
+ag.n21#lexent.n21627#imb#masc#i_er_ris#3rd declension i-stem
+ag.n43#lexent.n43309#sedil#neut#i_is_is#3rd declension i-stem
+ag.n36#lexent.n2618#animal#neut#i_0_is#3rd declension i-stem
+ag.n37#lexent.n6167#calcar#neut#i_0_is#3rd declension i-stem
+ag.n44#lexent.n31321#nub#fem#i_es_is#3rd declension, mixed i-stem
+ag.n48#lexent.n49895#urb#fem#i_s_is#3rd declension i-stem, mixed i-stem
+ag.n38#lexent.n31309#no#fem#x_ctis#3rd declension i-stem, mixed i-stem
+ag.n47#lexent.n8598#clien#masc#s_tis#3rd declension i-stem, mixed i-stem
+ag.n46#lexent.n1406#ae#fem#tas_tatis#3rd declension i-stem, mixed i-stem
+ag.n39#lexent.n27977#man#fem#us_us#4th declension
+ag.n40#lexent.n25611#lac#masc#us_us#4th declension
+ag.n41#lexent.n19471#gen#neut#us_us#4th declension
+ag.n15#lexent.n41293#r#fem#es_ei#5th declension
+ag.n26#lexent.n18127#fid#fem#es_ei#5th declension
+ag.n25#lexent.n13847#di#masc#es_ei#5th declension
+ag.n61#lexent.n14720#dom#fem#us_us#4th declension (but has additional irregular forms)
