@@ -7,5 +7,3 @@ clientes
 clientium
 clientibus
 clientis
-clientes
-clientibus

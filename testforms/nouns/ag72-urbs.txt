@@ -6,6 +6,3 @@ urbe
 urbes
 urbium
 urbibus
-urbis
-urbes
-urbibus
